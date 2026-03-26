@@ -1,9 +1,0 @@
-1° Primeiro teste no git
-2° Aprender a mexer nesse treco rs..
-3° Criar um arquivo texto para modificar
-4° a primeira vez Deu errado !!!
-5° agora vai!
-
-
-aplicando um ponto na historia
-testando 1,2,3
